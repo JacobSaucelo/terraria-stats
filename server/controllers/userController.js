@@ -5,11 +5,11 @@ const dotenv = require("dotenv").config();
 
 // const steamId = "76561197962146232";
 //? cob
-const steamId = "76561198288255807";
+// const steamId = "76561198288255807";
 //? jp
 // const steamId = "76561198156043668";
 //? jer
-// const steamId = "76561198315704325";
+const steamId = "76561198315704325";
 //? eleas
 // const steamId = "76561198176285225";
 
