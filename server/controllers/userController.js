@@ -31,7 +31,7 @@ const checkUser = asyncHandler(async (req, res) => {
   )
     .then((res) => res.json())
     .then((data) => {
-      console.log("successfully fetched users data");
+      console.log("successfully fetched users datass");
       return data;
     })
     .catch((err) => {
